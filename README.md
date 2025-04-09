@@ -15,3 +15,4 @@ The projects I worked on before Github:
 - RPGAM: a python game in the terminal (Alpha version finished)
 
 [![wakatime](https://wakatime.com/badge/user/2cc00533-f45b-4dd7-aebd-24dedf551ccd.svg)](https://wakatime.com/@2cc00533-f45b-4dd7-aebd-24dedf551ccd)
+
