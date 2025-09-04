@@ -1,15 +1,18 @@
+# languages:
+- [français](https://github.com/Outoine15/Outoine15/README.fr.md)
+- [english](https://github.com/Outoine15/Outoine15/README.md)
+
 # About me
 
-<!--
-- I’m currently working on ...
-- How to reach me: ...
-- I’m looking to collaborate on ...
--->
-- I’m currently learning: Python, Web programming
-- I’m looking for help with learning new things
-- Ask me about Python & Maths stufs
+I'm a college CS student at USMB.
 
-The projects I worked on before Github:
+I'm currently learning: [rust](https://www.rust-lang.org/) and [rhai](https://rhai.rs/) to make mods
+
+# My Github projects:
+- [Money Factory](https://github.com/Outoine15/money_factory) a mod for the game [Voxel Eras](https://store.steampowered.com/app/3192010/Voxel_Eras/)
+- [CollectArt](https://github.com/Outoine15/CollectArt) a website for the first year projet at USMB.
+
+# The projects I worked on before Github:
 - calendarMaker: an app to format excel document with date relevent information (finished)
 - vectorRandom: a litle programm to check if the average norm of n-dimensions vector follow a gaussian function (unfinished)
 - RPGAM: a python game in the terminal (Alpha version finished)
