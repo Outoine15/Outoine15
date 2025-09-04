@@ -1,7 +1,3 @@
-# languages:
-- [français](https://github.com/Outoine15/Outoine15/README.fr.md)
-- [english](https://github.com/Outoine15/Outoine15/README.md)
-
 # About me
 
 I'm a college CS student at USMB.
